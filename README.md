@@ -9,7 +9,7 @@
     
 Assume you have figured out the above environment, the most convenient way for installation is via the pip command. 
 ```sheel
-pip install git+https://github.com/ZebinYang/SeqUD.git
+pip install git+https://github.com/SelfExplainML/SeqUD.git
 ```
 
 More details can be found in [documentation](https://zebinyang.github.io/SeqUD/build/html/index.html).
